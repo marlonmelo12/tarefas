@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 const firebaseConfig = {
-  apiKey: "AIzaSyBUGDCqrE5qKKHXqYj-cw-pKHsdDoVM3tQ",
+  apiKey: "",
   authDomain: "tarefas-c981c.firebaseapp.com",
   projectId: "tarefas-c981c",
   storageBucket: "tarefas-c981c.firebasestorage.app",
